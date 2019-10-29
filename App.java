@@ -2,14 +2,14 @@ package com.surya.demo;
 
 /**
  * Hello world!sdfghjklsdfghjk
-<<<<<<< HEAD
 hgrfddfhjhgdsafhjgfdsa
 D';FFDM,SC
 FDMFM,D
-=======
- fdsjhkalsdjs
- dvsbnxmdsja
->>>>>>> 54f55e3a9ced7a6f2e3029693471679285dd5cd8
+dev 2 
+dev 2
+ dev 2
+dev 2 
+dev2
  *
  */
 public class App 
